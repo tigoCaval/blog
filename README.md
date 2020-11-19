@@ -13,7 +13,7 @@ Clique na imagem para visualizar o exemplo
 - Testando projeto 
 1. Download do projeto 
 2. Instalar composer
-3. no diretório raiz do projeto executar o comando ```composer update``` 
+3. no diretório raiz executar o comando ```composer update``` 
 4. Renomear arquivo ".env.example" para ".env"
 5. executar comando ```php artisan key:generate```
 6. executar comando ```php artisan config:cache```
