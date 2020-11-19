@@ -18,7 +18,7 @@ Clique na imagem para visualizar o exemplo
 5. executar comando ```php artisan key:generate```
 6. executar comando ```php artisan config:cache```
 7. Configurar banco de dados (.env)
-8. executar comando ```php artisan migrate``` (migrando tabela sql)  
+8. executar comando ```php artisan migrate``` (migrar tabela sql)  
 
 ## Licença
 
