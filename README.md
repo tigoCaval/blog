@@ -1,5 +1,5 @@
 ## Sistema Blog - Visualizar 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/ZAWMrzinHXo/mq1.jpg?sqp=CLiC1_0F&rs=AOn4CLBkwAoGHjzuRJs9uD8Z70Z5KKHljw)](https://youtu.be/ZAWMrzinHXo)
+[![Clique aqui](https://i9.ytimg.com/vi/ZAWMrzinHXo/mq1.jpg?sqp=CLSn2f0F&rs=AOn4CLAyhwHVHTMsD3bITrXo3JAPE5Jorw)](https://youtu.be/ZAWMrzinHXo)
 
 Clique na imagem para visualizar o exemplo
 
