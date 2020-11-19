@@ -18,7 +18,8 @@ Clique na imagem para visualizar o projeto
 5. executar comando ```php artisan key:generate```
 6. executar comando ```php artisan config:cache```
 7. Configurar banco de dados (.env)
-8. executar comando ```php artisan migrate``` (migrar tabela sql)  
+8. executar comando ```php artisan migrate``` (migrar tabela sql) 
+- inserção automático do usuário administrador: Login ```email: admin@mail.com ; password: 12345678```   
 
 ## Licença
 
