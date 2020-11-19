@@ -1,7 +1,7 @@
 ## Sistema Blog - Visualizar 
 [![Clique aqui](https://i9.ytimg.com/vi/ZAWMrzinHXo/mq1.jpg?sqp=CLSn2f0F&rs=AOn4CLAyhwHVHTMsD3bITrXo3JAPE5Jorw)](https://youtu.be/ZAWMrzinHXo)
 
-Clique na imagem para visualizar o exemplo
+Clique na imagem para visualizar o projeto
 
 ## Versão e Ferramentas
 
