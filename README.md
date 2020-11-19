@@ -1,4 +1,4 @@
-## Sistema Blog - Visualizar 
+## Sistema Blog 
 [![Clique aqui](https://github.com/tigoCaval/images/blob/main/web/telalogin-blog.png?raw=true)](https://youtu.be/ZAWMrzinHXo)
 
 Clique na imagem para visualizar o projeto
