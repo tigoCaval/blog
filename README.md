@@ -3,7 +3,7 @@
 
 Clique na imagem para visualizar o projeto
 
-## Versão e Ferramentas
+## Ferramentas e Versão
 
 - PHP versão 7.3.23
 - Composer versão 2.0.7 - 2020-11-13
