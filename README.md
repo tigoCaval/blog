@@ -10,7 +10,7 @@ Clique na imagem para visualizar o exemplo
 - Framework Laravel versão 7.29.3  
 
 ## Configuração
-- Configurações que podem ser necessárias 
+- Testando projeto 
 1. Download do projeto 
 2. Instalar composer
 3. no diretório raiz do projeto executar o comando ```composer update``` 
