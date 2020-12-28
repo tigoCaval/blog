@@ -23,4 +23,4 @@ Clique na imagem para visualizar o projeto
 
 ## Licença
 
-[MIT license](https://opensource.org/licenses/MIT).
+Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/blog/blob/main/LICENSE).
